@@ -1,0 +1,25 @@
++-----------------------------------------------------------------------------+
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|               For best results, size your terminal so that                  |
+|               the edges of this box are as close to the edges               |
+|               of the sceeen as possible.                                    |
+|                                                                             |
+|               Make sure none of the lines are hidden or                     |
+|               distorted.                                                    |
+|                                                                             |
+|               PRESS C TO CONTINUE.                                          |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
++-----------------------------------------------------------------------------+
